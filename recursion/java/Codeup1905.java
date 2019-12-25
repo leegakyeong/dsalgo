@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Codeup1905 {
     public static int sum(int n) {
         if (n == 1) {
             return n;
